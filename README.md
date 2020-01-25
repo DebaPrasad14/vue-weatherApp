@@ -1,5 +1,7 @@
-# vue-weather
+# vue-weatherApp
+A simple weather application using vue, weather map api
 
+# vue-weather
 ## Project setup
 ```
 npm install
